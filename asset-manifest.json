@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio-v2/static/css/main.46961403.css",
-    "main.js": "/Portfolio-v2/static/js/main.616ace99.js",
-    "static/media/TRIPPLO_19.png": "/Portfolio-v2/static/media/TRIPPLO_19.d6007322e569c933c871.png",
+    "main.js": "/Portfolio-v2/static/js/main.51334ede.js",
     "static/media/LunarTour-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/LunarTour-ezgif.com-video-to-gif-converter.53882313f68be5d74608.gif",
     "static/media/ValourVoice-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/ValourVoice-ezgif.com-video-to-gif-converter.8d5030707a461aae5449.gif",
     "static/media/video-to-gif-converter.gif": "/Portfolio-v2/static/media/video-to-gif-converter.031f2ddd3bdeafd60a64.gif",
+    "static/media/graph-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/graph-ezgif.com-video-to-gif-converter.4002337828b8e96ab7b2.gif",
+    "static/media/assign-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/assign-ezgif.com-video-to-gif-converter.64ab4d79b821cf655af8.gif",
     "static/media/Hello.gif": "/Portfolio-v2/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/CV.pdf": "/Portfolio-v2/static/media/CV.7e7defe11fa4c76395c4.pdf",
+    "static/media/MyCV.pdf": "/Portfolio-v2/static/media/MyCV.e50dc82bcd7f4ec24e1e.pdf",
+    "static/media/portfolio.jpeg": "/Portfolio-v2/static/media/portfolio.c2167b3e8b1b74350074.jpeg",
     "static/media/sass-icon.svg": "/Portfolio-v2/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/node-icon.svg": "/Portfolio-v2/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
     "static/media/typescript-icon.svg": "/Portfolio-v2/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
@@ -25,10 +27,10 @@
     "static/media/linkedin.svg": "/Portfolio-v2/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/Portfolio-v2/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "main.46961403.css.map": "/Portfolio-v2/static/css/main.46961403.css.map",
-    "main.616ace99.js.map": "/Portfolio-v2/static/js/main.616ace99.js.map"
+    "main.51334ede.js.map": "/Portfolio-v2/static/js/main.51334ede.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.616ace99.js"
+    "static/js/main.51334ede.js"
   ]
 }
