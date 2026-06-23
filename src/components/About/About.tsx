@@ -18,20 +18,20 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-          Hey there! I'm Peggy Mailula, your friendly neighborhood Full Stack Sorcerer and Code Alchemist.
+         Hi there! I'm Peggy Mailula, a Full Stack Developer with a passion for building scalable web applications and creating seamless digital experiences.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          For the past 4.5 years, I've been on an exhilarating journey, transforming complex challenges into sleek, high-performance web solutions. I don't just write code; I craft digital experiences that push the boundaries of what's possible on the web.</p>
+         Over the past 4.5 years, I've worked across the full development lifecycle, transforming complex business requirements into intuitive, high-performance solutions. I enjoy solving challenging problems and building products that deliver real value to users.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          In my world, the frontend is my canvas. I wield React like a magic wand, conjuring responsive and intuitive user interfaces that captivate and delight. My secret sauce? A powerful brew of Ant Design components and Tailwind CSS, resulting in pixel-perfect designs that are as functional as they are beautiful.</p>
+         On the frontend, I specialize in React, creating responsive and user-friendly interfaces that balance functionality with great design. I leverage modern tools and frameworks to build applications that are both visually polished and easy to maintain.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-          But my powers don't stop at the surface. Dive into the backend, and you'll find me orchestrating symphonies of microservices with Node.js and TypeScript. I'm fluent in both REST and GraphQL, always choosing the perfect communication protocol for each unique challenge.</p>
+         Beyond the user interface, I design and develop robust backend systems using Node.js and TypeScript. From REST APIs and GraphQL services to cloud infrastructure and automation workflows, I focus on building reliable, scalable solutions that power exceptional user experiences.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
