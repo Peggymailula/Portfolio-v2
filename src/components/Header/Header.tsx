@@ -2,7 +2,7 @@ import { Container } from './styles'
 import { BrowserRouter as Router } from 'react-router-dom'
 import { NavHashLink, HashLink } from 'react-router-hash-link'
 import { useState } from 'react'
-import Resume from '../../assets/CV.pdf'
+import Resume from '../../assets/MyCV.pdf'
 export function Header() {
   const [isActive, setActive] = useState(false)
   function toggleTheme() {
@@ -41,7 +41,7 @@ export function Header() {
             Contact
           </NavHashLink>
           <a href={Resume} download className="button">
-            Resume
+            download CV
           </a>
         </nav>
         <div
