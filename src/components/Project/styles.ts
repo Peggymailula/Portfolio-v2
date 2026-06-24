@@ -1,4 +1,5 @@
-import styled from 'styled-components';
+import styled from "styled-components";
+
 
 export const Container = styled.section`
   margin-top: 15rem;
@@ -10,7 +11,7 @@ export const Container = styled.section`
   }
   .projects{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: auto;
     gap: 2rem;
     padding: 1rem;
@@ -48,13 +49,6 @@ export const Container = styled.section`
       
       h3{
         margin-bottom: 2rem;
-      }
-
-      .project-screenshot {
-        max-width: 80%;
-        height: auto;
-        display: block;
-        margin: 0 auto;
       }
 
       p{
@@ -95,4 +89,4 @@ export const Container = styled.section`
       grid-template-columns: 1fr;
     }
   }
-`;
+`
