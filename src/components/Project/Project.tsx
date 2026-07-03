@@ -5,6 +5,7 @@ import lunarTour from "../../assets/LunarTour-ezgif.com-video-to-gif-converter.g
 import valourVoice from "../../assets/ValourVoice-ezgif.com-video-to-gif-converter.gif"
 import empath from "../../assets/assign-ezgif.com-video-to-gif-converter.gif"
 import graphs from "../../assets/graph-ezgif.com-video-to-gif-converter.gif"
+import ledgerApp from "../../assets/ledger-ezgif.com-video-to-gif-converter.gif"
 
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -78,6 +79,39 @@ export function Project() {
       </ul>
     </footer>
   </div>
+        </ScrollAnimation>
+
+                <ScrollAnimation animateIn="flipInX">
+          <div className="project">
+            <header>
+              <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
+                <title>Folder</title>
+                <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+              </svg>
+              <div className="project-links">
+                <a href="https://github.com/Peggymailula/LedgerApp" target="\_blank" rel="noreferrer">
+                  <img src={githubIcon} alt="Visit site" />
+                </a>
+              </div>
+            </header>
+            <div className="body">
+              <h3>Ledger App</h3>
+              <p>
+                Developed freelance invoicing & client management SaaS — built as a portfolio piece to demonstrate frontend architecture and UI polish.
+              </p>
+              <img src={ledgerApp} className="project-screenshot" alt="Lunar Tour" />
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>Vite + React + TypeScript</li>
+                <li>Tailwind CSS v4</li>
+                <li>React Router</li>
+                <li>Zustand </li>
+                <li>Recharts</li>
+                <li>Framer Motion</li>
+              </ul>
+            </footer>
+          </div>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="flipInX">
