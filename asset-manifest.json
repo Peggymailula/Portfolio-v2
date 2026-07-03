@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio-v2/static/css/main.46961403.css",
-    "main.js": "/Portfolio-v2/static/js/main.51334ede.js",
+    "main.js": "/Portfolio-v2/static/js/main.e6a3833d.js",
     "static/media/LunarTour-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/LunarTour-ezgif.com-video-to-gif-converter.53882313f68be5d74608.gif",
     "static/media/ValourVoice-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/ValourVoice-ezgif.com-video-to-gif-converter.8d5030707a461aae5449.gif",
     "static/media/video-to-gif-converter.gif": "/Portfolio-v2/static/media/video-to-gif-converter.031f2ddd3bdeafd60a64.gif",
     "static/media/graph-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/graph-ezgif.com-video-to-gif-converter.4002337828b8e96ab7b2.gif",
     "static/media/assign-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/assign-ezgif.com-video-to-gif-converter.64ab4d79b821cf655af8.gif",
     "static/media/Hello.gif": "/Portfolio-v2/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/ledger-ezgif.com-video-to-gif-converter.gif": "/Portfolio-v2/static/media/ledger-ezgif.com-video-to-gif-converter.79bdb671a5e43256668d.gif",
     "static/media/MyCV.pdf": "/Portfolio-v2/static/media/MyCV.e50dc82bcd7f4ec24e1e.pdf",
     "static/media/portfolio.jpeg": "/Portfolio-v2/static/media/portfolio.c2167b3e8b1b74350074.jpeg",
     "static/media/sass-icon.svg": "/Portfolio-v2/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
@@ -17,8 +18,6 @@
     "static/media/bootstrap-icon.svg": "/Portfolio-v2/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
     "static/media/react-icon.svg": "/Portfolio-v2/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
     "index.html": "/Portfolio-v2/index.html",
-    "static/media/telegram.svg": "/Portfolio-v2/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
-    "static/media/instagram.svg": "/Portfolio-v2/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
     "static/media/phone-icon.svg": "/Portfolio-v2/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
     "static/media/github.svg": "/Portfolio-v2/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
     "static/media/email-icon.svg": "/Portfolio-v2/static/media/email-icon.a83578f914460e952501546655b76165.svg",
@@ -27,10 +26,10 @@
     "static/media/linkedin.svg": "/Portfolio-v2/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/Portfolio-v2/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "main.46961403.css.map": "/Portfolio-v2/static/css/main.46961403.css.map",
-    "main.51334ede.js.map": "/Portfolio-v2/static/js/main.51334ede.js.map"
+    "main.e6a3833d.js.map": "/Portfolio-v2/static/js/main.e6a3833d.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.51334ede.js"
+    "static/js/main.e6a3833d.js"
   ]
 }
